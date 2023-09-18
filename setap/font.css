@@ -1,0 +1,25 @@
+.poppins-font{
+    font-family: Poppins;
+}
+.name_page-background{
+    color: #FFF;
+    text-align: center;
+    
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 19.2px;
+    text-transform: uppercase;
+}
+.name_page-content{
+    color: #FFF;
+    text-align: center;
+    
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 3.2px;
+    text-transform: uppercase;
+}

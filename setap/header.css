@@ -1,0 +1,17 @@
+.name_page {
+    margin: 25px 0 0;
+    position: relative;
+    display: grid;
+    height: max-content;
+}
+
+.name_page-background {
+    opacity: 0.08;
+}
+
+.name_page-content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
